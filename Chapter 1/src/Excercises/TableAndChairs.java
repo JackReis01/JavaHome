@@ -23,7 +23,7 @@ public class TableAndChairs {
 		System.out.println("XXXXXX  X          X  XXXXXX");
 		System.out.println("X    X  X          X  X    X");
 		System.out.println("X    X  X          X  X    X");
-        System.out.println("X    X  X          X  X    X");
+        System.out.println("        X    X  X          X  X    X");
 
 	}
 
